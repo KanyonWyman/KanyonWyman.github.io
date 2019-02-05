@@ -22,3 +22,6 @@ A passion I have is making music. If I were writing a song, i'd want to use chor
 What - Weapon/Mility Equpiment development
 How - Coding skills
 Why - More efficient and less deaths
+
+##Resume
+https://docs.google.com/document/d/170pBacfpeD46EpeEho8PhI9CwZLy7q5x6E2aJc2CpyE/edit
