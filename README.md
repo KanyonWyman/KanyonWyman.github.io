@@ -23,5 +23,5 @@ What - Weapon/Mility Equpiment development
 How - Coding skills
 Why - More efficient and less deaths
 
-##Resume
-https://docs.google.com/document/d/170pBacfpeD46EpeEho8PhI9CwZLy7q5x6E2aJc2CpyE/edit
+
+[Resume](https://docs.google.com/document/d/170pBacfpeD46EpeEho8PhI9CwZLy7q5x6E2aJc2CpyE/edit)
