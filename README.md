@@ -23,3 +23,8 @@ What - Weapon/Mility Equpiment development
 How - Coding skills
 Why - More efficient and less deaths
 
+
+
+## Week 4 reflection
+
+Was assigned capstone project groups. I think between me, Michael, and James we bring different ideas and skills to the table. In regards to the game we were able to work together quickly to win.
